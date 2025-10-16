@@ -19,3 +19,5 @@ jest.spyOn(console, 'warn').mockImplementation(() => {});
 // ACTIVAR mocks de dependencias externas
 jest.mock('razorpay');   // usará server/__mocks__/razorpay.js
 jest.mock('web-push');   // usará server/__mocks__/web-push.js
+
+
