@@ -1,0 +1,57 @@
+Username
+svillamizar
+
+
+
+Password
+villamizar123
+
+
+connection string: 
+mongodb+srv://svillamizar:villamizar123@cluster0.6mly53y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+connectionstring modified:
+mongodb+srv://svillamizar:villamizar123@cluster0.6mly53y.mongodb.net/smart_parking?retryWrites=true&w=majority&appName=Cluster0
+
+
+MONGODB_URI=mongodb+srv://svillamizar:villamizar123@cluster0.6mly53y.mongodb.net/smart_parking?retryWrites=true&w=majority&appName=Cluster0
+
+PORT=5000
+TOKEN_SECRET=MiSecretoJWT123
+
+ADMIN1_EMAIL=admin@smartparking.com
+ADMIN1_PASS=123456
+
+APP_CODE=tu_correo@gmail.com
+APP_PASS=clave_app_password
+
+PUBLIC_VAPID_KEY=public_key_test
+PRIVATE_VAPID_KEY=private_key_test
+WEB_PUSH_CONTACT=mailto:admin@smartparking.com
+
+RAZORPAY_API_KEY=test_key
+RAZORPAY_API_SECRET=test_secret
+
+REACT_APP_URI=http://localhost:3000
+
+NEWS_API_KEY=test_news_key
+
+
+
+
+
+Public Key:
+BETrnCdjuRE4ReTI0HPyVS-KBjjYqOL1G433AbTg3b772XvAEAv1E8nMxKe5apvLxRqGCv7YQj578nQ0qO3-g_w
+
+Private Key:
+IMcXXyp2yWVAQKvFKdNIWVVr4L6UCknlRkY8xYaujb4
+
+
+
+
+
+
+
+
+
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNtYXJ0cGFya2luZzY3OEBnbWFpbC5jb20iLCJpZCI6IjY4ZGEzNTQ0MmY1Y2ZiYjI1YWQyOWM1ZCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1OTEzMTA2MSwiZXhwIjoxNzU5MTQxODYxfQ.CdNhlwAOCtZH_LPvqsq5k8sREisyB55Yjrq9StzPyg8"

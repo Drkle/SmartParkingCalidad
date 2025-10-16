@@ -1,0 +1,12 @@
+# env y credenciales
+.env
+
+# dependencias
+node_modules/
+
+# cobertura y reportes
+coverage/
+server/coverage/
+
+# editor/IDE
+.vscode/
